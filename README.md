@@ -6,7 +6,8 @@
 - ⚡ Fun fact:  I spend almost 12 hours listening songs everyday.
 
 
-Languages:
 
-c, c++, HTML, CSS, JavaScript, php,
-MySQL, ORACLE, java.
+
+
+
+
