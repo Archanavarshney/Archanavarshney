@@ -5,7 +5,9 @@
 - 📫 How to reach me: Gmail- @Archanavarshney66@gmail.com , Linkedln- @https://www.linkedin.com/in/archana-varshney-1a33151a8
 - ⚡ Fun fact:  I spend almost 12 hours listening songs everyday.
 
+Tester:-
 
+Manual testing, Salesforce testing, mobile publishers
 
 
 
